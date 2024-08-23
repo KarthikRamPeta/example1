@@ -23,3 +23,4 @@ jobs:
     - name: Run the Python script
       run: |
         python add.py 5 10
+        
