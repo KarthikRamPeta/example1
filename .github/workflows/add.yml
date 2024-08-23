@@ -30,4 +30,4 @@ jobs:
 
     - name: Run the JavaScript script
       run: |
-        node add.js 7 8
+        node abc.js 7 8
